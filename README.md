@@ -10,10 +10,9 @@ This repository contains a lightweight Linux container runtime in C with:
 
 This README is organized to match the assignment rubric in project-guide.md.
 
-## 1. Team Information
+## 1. My Information
 
-- **Member 1: Sonu Akash Soundararajan, PES1UG24AM908**
-- **Member 2: Rishit V N S, PES1UG24AM225**
+- Done by: Sonu Akash Soundararajan
 
 ## 2. Build, Load, and Run Instructions
 
